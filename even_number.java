@@ -8,4 +8,7 @@ class even_number{
             System.out.println("Odd Number");
         }
     }
+    public void m1(){
+        System.out.println("fghjklp");
+    }
 }
