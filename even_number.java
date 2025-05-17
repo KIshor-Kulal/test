@@ -12,6 +12,10 @@ class even_number{
         System.out.println("fghjklp");
     }
 
+    public void m2(){
+        System.out.println("fghjklp");
+}
+
 //fiudhygijaerknhe
 //dgjihwegknwrg
 //wkjhwekjghw
