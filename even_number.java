@@ -19,7 +19,7 @@ class even_number{
 //fiudhygijaerknhe
 //dgjihwegknwrg
 //wkjhwekjghw
-    public void m2(){
+    public void m3(){
         System.out.println("asdfghjkl");
     }
 
