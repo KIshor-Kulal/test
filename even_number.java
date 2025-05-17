@@ -19,4 +19,12 @@ class even_number{
         System.out.println("asdfghjkl");
     }
 
+    public void om(){
+        System.out.println("om method");
+    }
+
+public void om1(){
+        System.out.println("om method");
+    }
+
 }
